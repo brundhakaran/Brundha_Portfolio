@@ -2,7 +2,7 @@
   "name": "portfolio-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brundhakaran.github.io/Brundha_Portfolio",
+  "homepage": ".",
   "dependencies": {
     "@developer-hub/liquid-glass": "^1.2.3",
     "@types/node": "^16.7.13",
