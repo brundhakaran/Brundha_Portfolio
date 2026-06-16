@@ -1,8 +1,8 @@
 import { Container } from "./styles";
-import githubIcon from "../../assets/github.svg"
-import externalLink from "../../assets/external-link.svg"
+import githubIcon from "../../assets/github.svg";
 import ScrollAnimation from "react-animate-on-scroll";
-import { GlassCard } from "@developer-hub/liquid-glass";
+
+
 
 
 export function Project() {
